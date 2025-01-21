@@ -3,7 +3,7 @@
 ## How the book is organized
 
 - The book is written as a collection of short topics, you can read it in any order
-- There are excercised and challenges
+- There are excercises and challenges
 
 ## What is in a Name?
 
@@ -12,7 +12,7 @@
 ## Source Code and Other Resources
 
 - Most of the codes in this book is extraced from compilable code.
-- On the book website, you can find link for useful codes
+- On the book website, you can find links for useful codes
 
 This is a practical book, not theoritical
 
@@ -22,9 +22,9 @@ It's for any programmer that needs to be a better programmer, and use the approp
 
 ## What Makes a Pragmatic programmer?
 
-- Each developer is unique and will have their own environment, if you are a pragmatic programmer, you will share mane of these charactaristics:
+- Each developer is unique and will have their own environment, if you are a pragmatic programmer, you will share many of these charactaristics:
 
-  - *Early adopter/fast adapter*: you will love new things and you will get familiar with them fast, your confidince will come from experience
+  - *Early adopter/fast adapter*: you will love new things and you will get familiar with them fast, your confidince comes from experience
 
   - *Inquisitive*: You will always ask questions about black boxes
 
@@ -40,7 +40,7 @@ It's for any programmer that needs to be a better programmer, and use the approp
 
 ## Individual Pragmatists, Large Teams
 
-- Some people says that in large teams, the individual team member shouldn't take dicision of themselves, but the author disagrees
+- Some people says that in large teams, the individual team member shouldn't take decision of themselves, but the author disagrees
 - Engineering will be more archaic, but our craftsmanship will be needed
 
 ## It's a continous process
